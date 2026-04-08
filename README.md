@@ -18,9 +18,11 @@ Results-driven Senior Cloud & DevOps Engineer with **12+ years of experience** i
 - GCP, Oracle Cloud, Huawei Cloud
 
 **Automation & CI/CD**
-- Terraform, Ansible, SaltStack, Vagrant
+- Terraform, opentofu, Terragrunt
+- Crossplane
 - GitOps (ArgoCD / Flux)
 - GitHub Actions, Azure DevOps, Jenkins
+- Ansible, SaltStack, Vagrant
 - Bash & Python Scripting
 
 **Containers & Orchestration**
