@@ -25,8 +25,10 @@ Results-driven Senior Cloud & DevOps Engineer with **12+ years of experience** i
 
 **Containers & Orchestration**
 - Kubernetes (CKA & CKAD Certified)
+- Amazon EKS (Elastic Kubernetes Service)
+- Azure AKS (Azure Kubernetes Service)
 - Red Hat OpenShift
-- Docker
+- Docker, Podman
 
 **Monitoring & Logging**
 - Prometheus, Alertmanager
