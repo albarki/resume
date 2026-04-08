@@ -1,6 +1,6 @@
 # Ibrahim Mohamed Albarki
 **Cairo, Egypt** | (+20) 106-008-9048 | ibrahiemalbarki@gmail.com  
-[LinkedIn](#) | Open to Remote Opportunities
+Open to Remote Opportunities
 
 ---
 
@@ -12,17 +12,33 @@ Results-driven Senior Cloud & DevOps Engineer with **12+ years of experience** i
 
 ## Core Competencies
 
-| Cloud & Infrastructure | Automation & CI/CD | Containers & Orchestration |
-|---|---|---|
-| AWS (IAM, EC2, S3, RDS, VPC, Route 53, SNS, Elastic Beanstalk) | Terraform, Ansible, SaltStack | Kubernetes (CKA/CKAD Certified) |
-| Microsoft Azure | Jenkins, GitHub Actions | Red Hat OpenShift |
-| GCP, Oracle Cloud, Huawei Cloud | Bash & Python Scripting | Docker, Vagrant |
+**Cloud & Infrastructure**
+- AWS (IAM, EC2, S3, RDS, VPC, SNS, Route 53, Elastic Beanstalk, AWS CLI)
+- Microsoft Azure
+- GCP, Oracle Cloud, Huawei Cloud
 
-| Monitoring & Logging | Databases | Web & App Servers |
-|---|---|---|
-| ELK Stack (Elasticsearch, Logstash, Kibana) | MySQL, MySQL Cluster CGE, Oracle DB | Nginx, Apache, Apache Tomcat |
-| Nagios, Zabbix, Sensu, Graylog2 | Database Installation, Tuning & Administration | Wildfly, Oracle WebLogic, WebSphere |
-| Centralized Log Management | | WHM/cPanel |
+**Automation & CI/CD**
+- Terraform, Ansible, SaltStack, Vagrant
+- Jenkins, GitHub Actions
+- Bash & Python Scripting
+
+**Containers & Orchestration**
+- Kubernetes (CKA & CKAD Certified)
+- Red Hat OpenShift
+- Docker
+
+**Monitoring & Logging**
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Nagios, Zabbix, Sensu, Graylog2
+- Centralized Log Management
+
+**Databases**
+- MySQL, MySQL Cluster CGE, Oracle DB
+- Installation, Configuration, Tuning & Administration
+
+**Web & App Servers**
+- Nginx, Apache, Apache Tomcat
+- Wildfly, Oracle WebLogic, IBM WebSphere, WHM/cPanel
 
 ---
 
@@ -117,16 +133,26 @@ Grade: Excellent | A fully virtualized, secure network infrastructure for a bank
 
 ## Technical Skills
 
-**Cloud Platforms:** AWS (IAM, S3, EC2, RDS, VPC, SNS, Route 53, Elastic Beanstalk, AWS CLI), Microsoft Azure, GCP, Oracle Cloud, Huawei Cloud  
-**Infrastructure as Code:** Terraform, Ansible, SaltStack, Vagrant  
-**Containers & Orchestration:** Docker, Kubernetes, Red Hat OpenShift  
-**CI/CD:** Jenkins, Git (GitHub/GitLab), SVN, VSS  
-**Scripting:** Bash, Python  
-**Monitoring & Logging:** ELK Stack, Graylog2, Nagios, Zabbix, Sensu  
-**Web & App Servers:** Nginx, Apache, Apache Tomcat, Wildfly, Oracle WebLogic, IBM WebSphere  
-**Databases:** MySQL, MySQL Cluster CGE, Oracle DB 10g  
-**Virtualization:** KVM, VMware, RHEV  
-**Backup Solutions:** R1soft, Bacula, Bareos, BackupPC  
+**Cloud Platforms:** AWS (IAM, S3, EC2, RDS, VPC, SNS, Route 53, Elastic Beanstalk, AWS CLI), Microsoft Azure, GCP, Oracle Cloud, Huawei Cloud
+
+**Infrastructure as Code:** Terraform, Ansible, SaltStack, Vagrant
+
+**Containers & Orchestration:** Docker, Kubernetes, Red Hat OpenShift
+
+**CI/CD:** Jenkins, Git (GitHub/GitLab), SVN, VSS
+
+**Scripting:** Bash, Python
+
+**Monitoring & Logging:** ELK Stack, Graylog2, Nagios, Zabbix, Sensu
+
+**Web & App Servers:** Nginx, Apache, Apache Tomcat, Wildfly, Oracle WebLogic, IBM WebSphere
+
+**Databases:** MySQL, MySQL Cluster CGE, Oracle DB 10g
+
+**Virtualization:** KVM, VMware, RHEV
+
+**Backup Solutions:** R1soft, Bacula, Bareos, BackupPC
+
 **Other:** Zimbra Email Suite, WHM/cPanel, WordPress, Joomla, Drupal, Varnish, Memcached
 
 ---
