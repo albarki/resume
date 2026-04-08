@@ -13,8 +13,8 @@ Results-driven Senior Cloud & DevOps Engineer with **12+ years of experience** i
 ## Core Competencies
 
 **Cloud & Infrastructure**
-- AWS (IAM, EC2, S3, RDS, VPC, SNS, Route 53, Elastic Beanstalk, AWS CLI)
-- Microsoft Azure
+- AWS (EKS, ECR, IAM, EC2, S3, RDS, VPC, Cloudwatch, Route 53, Elasticache, AWS CLI, Cost Managmenet, ..)
+- Microsoft Azure (AKS, 
 - GCP, Oracle Cloud, Huawei Cloud
 
 **Automation & CI/CD**
