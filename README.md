@@ -19,7 +19,8 @@ Results-driven Senior Cloud & DevOps Engineer with **12+ years of experience** i
 
 **Automation & CI/CD**
 - Terraform, Ansible, SaltStack, Vagrant
-- Jenkins, GitHub Actions
+- GitOps (ArgoCD / Flux)
+- GitHub Actions, Azure DevOps, Jenkins
 - Bash & Python Scripting
 
 **Containers & Orchestration**
@@ -28,9 +29,11 @@ Results-driven Senior Cloud & DevOps Engineer with **12+ years of experience** i
 - Docker
 
 **Monitoring & Logging**
-- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Prometheus, Alertmanager
+- Grafana, Grafana Tempo, Grafana Alloy
+- VictoriaMetrics, Victoria Logs
+- Centralized Log Management ELK Stack (Elasticsearch, Logstash, Kibana)
 - Nagios, Zabbix, Sensu, Graylog2
-- Centralized Log Management
 
 **Databases**
 - MySQL, MySQL Cluster CGE, Oracle DB
