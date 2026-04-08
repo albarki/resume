@@ -124,7 +124,7 @@ Results-driven Senior Cloud & DevOps Engineer with **12+ years of experience** i
 
 **Bachelor of Electronic Engineering** — Computer Science & Engineering  
 Faculty of Electronic Engineering, Menoufia University, Egypt | 2007 – 2011  
-- Grade: **Excellent with Honours (85.82%)** | Ranked **5th** in cohort
+- Grade: **Excellent with Honours (85.82%)** - Ranked **5th** in cohort
 
 **Graduation Project:** *Integrated Secure Network Infrastructure System (ISNIS)*  
 Grade: Excellent | A fully virtualized, secure network infrastructure for a banking system, built on Red Hat Linux with Apache, Mail, FTP, DNS, DHCP, IPTables, SELinux, TCPWrappers, and Oracle Database 10g.
