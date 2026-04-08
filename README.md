@@ -1,5 +1,5 @@
 # Ibrahim Mohamed Albarki
-**Cairo, Egypt** | (+20) 106-008-9048 | ibrahiemalbarki@gmail.com  
+**Cairo, Egypt** | (+20) 106-008-9048 | ibrahim.albarki@gmail.com  
 Open to Remote Opportunities
 
 ---
